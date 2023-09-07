@@ -1,6 +1,7 @@
 body{
     font-size: x-large;
     background-color: bisque;
+    font-family: monospace;
 }
 #search{
     height:3vh;
@@ -8,5 +9,5 @@ body{
     font-size: large;
     text-align: center;
     /* font-family: ; */
-    
+    background-color: rgb(9, 235, 186)
 }
